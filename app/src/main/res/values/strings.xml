@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Menghitung Volume dan Luas Balok</string>
+    <string name="input_length">Masukkan Panjang</string>
+    <string name="input_width">Masukkan Lebar</string>
+    <string name="input_height">Masukkan Tinggi</string>
+    <string name="calculate_volume">Hitung Volume</string>
+    <string name="result_volume">Volume: %1$s</string>
+    <string name="result_surface_area">Luas Permukaan: %1$s</string>
+    <string name="invalid_input">Input tidak valid. Harap masukkan angka yang benar.</string>
+</resources>
